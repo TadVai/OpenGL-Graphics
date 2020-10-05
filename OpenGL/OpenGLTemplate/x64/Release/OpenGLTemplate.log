@@ -1,0 +1,38 @@
+﻿  Audio.cpp
+  Camera.cpp
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\Camera.cpp(133,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\Camera.cpp(148,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\Camera.cpp(149,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\Camera.cpp(153,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  CatmullRom.cpp
+  Cube.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\FreeTypeFont.h(3,10): fatal error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  Game.cpp
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\FreeTypeFont.h(3,10): fatal error C1083: Cannot open include file: 'ft2build.h': No such file or directory
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+C:\Users\Tadai\Desktop\OpenGL CW\Lab3solution2019\OpenGLTemplate\OpenAssetImportMesh.h(26,10): fatal error C1083: Cannot open include file: 'Importer.hpp': No such file or directory
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Pyramid.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
